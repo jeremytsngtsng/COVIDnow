@@ -1,7 +1,7 @@
 # COVIDnow
 
-<img src="/assets/logo.png" align="right"
-     alt="Logo" width="120" height="178">
+<img src="/assets/covidnow_logo.png" align="right"
+     alt="Logo" width="150" height="56">
 
 COVIDnow is a lightweight, highly available COVID-19 monitoring / alert system.
 
