@@ -34,7 +34,7 @@ In terminal, type <code>npx @covidnow/covidnow</code>
 
 ##### Roadmap
 
-- [ ] Alert notification on telegram (In Progress) 🛠
+- [ ] Alert notification on telegram 
 - [ ] Support RSS on Breaking News 🚨
 - [ ] Add useful links
 - [ ] Add useful information, travel advices & health tips
