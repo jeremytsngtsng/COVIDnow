@@ -1,8 +1,11 @@
 {
-  "name": "COVIDnow",
-  "version": "1.0.0",
+  "name": "@covidnow/covidnow",
+  "version": "1.0.5",
   "main": "index.js",
-  "repository": "git@github.com:jeremytsngtsng/COVIDnow.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeremytsngtsng/COVIDnow.git"
+  },
   "author": "Anthony Chan <ckanthony@gmail.com>",
   "license": "MIT",
   "dependencies": {
@@ -12,5 +15,26 @@
     "colors": "^1.4.0",
     "node-emoji": "^1.10.0",
     "node-fetch": "^2.6.0"
-  }
+  },
+  "description": "<!-- <img src=\"https://ai.github.io/size-limit/logo.svg\" align=\"right\"      alt=\"Size Limit logo by Anton Lovchikov\" width=\"120\" height=\"178\"> -->",
+  "bugs": {
+    "url": "https://github.com/jeremytsngtsng/COVIDnow/issues"
+  },
+  "homepage": "https://github.com/jeremytsngtsng/COVIDnow#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "covidnow": "index.js"
+  },
+  "keywords": [
+    "covid",
+    "covid19",
+    "cli"
+  ]
 }

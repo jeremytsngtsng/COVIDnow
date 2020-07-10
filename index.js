@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const covid = require('./lib/covid.js');
 
-covid();
+module.exports = covid();
