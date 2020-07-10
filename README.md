@@ -2,7 +2,7 @@
 
 <img alt="GitHub" src="https://img.shields.io/github/license/jeremytsngtsng/COVIDnow"><img alt="npm" src="https://img.shields.io/npm/v/@covidnow/covidnow"> <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/@covidnow/covidnow">
 
-<img src="/assets/logo.png" align="right"
+<img src="/assets/covidnow_logo.png" align="right"
      alt="Logo" width="120" height="178">
 
 COVIDnow is a lightweight, highly available COVID-19 monitoring / alert system.
