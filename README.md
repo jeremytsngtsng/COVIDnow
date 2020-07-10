@@ -31,6 +31,17 @@ In terminal, type <code>npx @covidnow/covidnow</code>
 
 [Centre for Health Protection](https://www.coronavirus.gov.hk/chi/index.html)
 
+
+##### Roadmap
+
+- [ ] Alert notification on telegram (In Progress) 🛠
+- [ ] Support RSS on Breaking News 🚨
+- [ ] Add useful links
+- [ ] Add useful information, travel advices & health tips
+- [ ] Dashboard enhancement (Interactive fields)
+- [ ] More to come...🚂
+
+
  
  <p align="center">Stay safe and stay home, wish you all good health.</p>
 
