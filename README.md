@@ -1,6 +1,6 @@
 # COVIDnow
 
-<img alt="GitHub" src="https://img.shields.io/github/license/jeremytsngtsng/COVIDnow"><img alt="npm" src="https://img.shields.io/npm/v/@covidnow/covidnow"> <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/@covidnow/covidnow"> <img alt="pr welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+<img alt="GitHub" src="https://img.shields.io/github/license/jeremytsngtsng/COVIDnow"> <img alt="npm" src="https://img.shields.io/npm/v/@covidnow/covidnow"> <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/@covidnow/covidnow"> <img alt="pr welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /> <img alt="pr welcome" src="https://img.shields.io/badge/🏚-%23StayHome-red" />
 
 <img src="/assets/covidnow_logo.png" alt="Logo" width="180" height="67">
 
