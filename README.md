@@ -1,5 +1,7 @@
 # COVIDnow
 
+<img alt="GitHub" src="https://img.shields.io/github/license/jeremytsngtsng/COVIDnow"><img alt="npm" src="https://img.shields.io/npm/v/@covidnow/covidnow"> <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/@covidnow/covidnow">
+
 <img src="/assets/logo.png" align="right"
      alt="Logo" width="120" height="178">
 
@@ -26,7 +28,9 @@ In terminal, type <code>npx @covidnow/covidnow</code>
 
 ##### Data sources
 [WHO Coronavirus Disease (COVID-19)](https://covid19.who.int)
+
 [Baidu Real-Time Coronavirus Report](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+
 [Centre for Health Protection](https://www.coronavirus.gov.hk/chi/index.html)
 
  
