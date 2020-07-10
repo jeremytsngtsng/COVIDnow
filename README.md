@@ -25,4 +25,4 @@ COVIDnow is a lightweight, highly available COVID-19 monitoring / alert system.
 [Centre for Health Protection](https://www.coronavirus.gov.hk/chi/index.html)
 
 
-<p align="center"> Made with ❤️in Hong Kong <i href="https://www.instagram.com/explore/tags/stayhome/?hl=en" style="color: #0501cf">#StayHome</p>
+<p align="center"> Made with ❤️ & care in Hong Kong <i href="https://www.instagram.com/explore/tags/stayhome/?hl=en" style="color: #0501cf">#StayHome</p>

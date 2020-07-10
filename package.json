@@ -6,6 +6,11 @@
   "author": "Anthony Chan <ckanthony@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "asciify-image": "^0.1.6",
+    "chalk": "^4.1.0",
+    "cli-table3": "^0.6.0",
+    "colors": "^1.4.0",
+    "node-emoji": "^1.10.0",
     "node-fetch": "^2.6.0"
   }
 }
