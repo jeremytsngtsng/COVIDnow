@@ -14,7 +14,7 @@
     "cli-table3": "^0.6.0",
     "colors": "^1.4.0",
     "node-emoji": "^1.10.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "description": "<!-- <img src=\"https://ai.github.io/size-limit/logo.svg\" align=\"right\"      alt=\"Size Limit logo by Anton Lovchikov\" width=\"120\" height=\"178\"> -->",
   "bugs": {
